@@ -216,11 +216,13 @@ footer{
   background-color: rgba(0, 0, 0, 0.5);
   display: none;
   align-items: center;
+  
   justify-content: center;
   z-index: 999;
   }
   
   .popup-content {
+    align-items: center;
   background-color: #fff;
   padding: 20px;
   max-width: 500px;
